@@ -1,2 +1,3 @@
 # BankApp
-Feature1 added by developer1  
+
+Feature1 added by developer1
